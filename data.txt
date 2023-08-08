@@ -1,0 +1,42 @@
+Date: 8/8/2023, 8:20:10 pm 
+email=admin@gmail.com
+title=newJOI
+author=JOI
+genre=JOI
+price=1234
+stock=2
+
+Date: 8/8/2023, 8:20:13 pm 
+email=admin@gmail.com
+title=newJOI
+author=JOI
+genre=JOI
+price=1234
+stock=2
+
+Date: 8/8/2023, 8:24:52 pm 
+email=admin@gmail.com
+title=newJOI
+author=JOI
+genre=JOI
+price=1234
+stock=2
+
+Date: 8/8/2023, 8:25:38 pm 
+email=user@gmail.com
+title=newJOI
+author=JOI
+genre=JOI
+price=1234
+stock=2
+
+Date: 8/8/2023, 8:58:24 pm 
+112=asdas
+a=1
+b=2
+
+Date: 8/8/2023, 8:58:30 pm 
+112=asdas
+a=1
+b=2
+
